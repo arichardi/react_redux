@@ -8,3 +8,10 @@ Passo a passo para desenvolver um sistema com redux
 3º Criar um reducer para a minha ação
 	-Criar um initialState 
 	-criar um reducer com switch para as opções de execução
+
+4º Criar um store da lib do redux
+	Criar a store na pasta do redux
+	envolver o app com a tag Provider (reacr-redux, e passar a store como elemento)
+
+5º Fazer as conexões dentro do container
+	Usar o connect (react-redux), na hora de exportar os elementos
