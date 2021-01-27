@@ -15,3 +15,11 @@ Passo a passo para desenvolver um sistema com redux
 
 5º Fazer as conexões dentro do container
 	Usar o connect (react-redux), na hora de exportar os elementos
+
+React + HOOKS !
+
+_O hooks tira a necessidade de usar o connect no seu sistema
+
+	Dentro dos pacotes de use introduzidos no react - useState e useEffect, usaremos o useSelector, useDispatch
+	Com o useSelector, você pode transportar os valores enviados pelo Provider(store)
+	Com o useDispatch, você envia o uso de Dispatch para o container

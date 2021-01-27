@@ -1,5 +1,5 @@
 import React from 'react'
-import { buycake } from '../redux' 
+import { buyCake } from '../redux/index' 
 import { connect } from 'react-redux'
 
 function CakeContainer(props) {
@@ -20,7 +20,7 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        buyCake: () => dispatch(buycake())
+        buyCake: () => dispatch(buyCake())
     }
 }
 
