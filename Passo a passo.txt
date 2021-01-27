@@ -1,0 +1,10 @@
+Passo a passo para desenvolver um sistema com redux
+
+1º Cria um aplicativo JS que terá o redux 
+2º Cria um action que vai chamar a minha ação
+	Fazer uma pasta com redux para organizar as coisas
+	criar a estutura com os types !!!
+
+3º Criar um reducer para a minha ação
+	-Criar um initialState 
+	-criar um reducer com switch para as opções de execução
