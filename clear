@@ -1,0 +1,35 @@
+[33mcommit 5024f9f98298a4af6bc5632b3f5fb0ff8ad12786[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: arichardi <a.richardi@gmail.com>
+Date:   Thu Jan 28 11:04:21 2021 -0300
+
+    The iceCreamContainer corrected and running
+
+[33mcommit 0150cbca7305f158a9a49f5c00b03786baf5e1fa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: arichardi <a.richardi@gmail.com>
+Date:   Thu Jan 28 10:45:21 2021 -0300
+
+    new icecream redux
+
+[33mcommit dcc7c127518ecdcf1cf77cfdc68d000439909cb1[m
+Author: Andre Richardi <a.richardi@gmail.com>
+Date:   Wed Jan 27 11:23:27 2021 -0300
+
+    redux hooks adapt
+
+[33mcommit 00ffa820820d8cea9ef6d66f0cc68f6139aa24ef[m
+Author: Andre Richardi <a.richardi@gmail.com>
+Date:   Wed Jan 27 11:04:50 2021 -0300
+
+    make a redux provider
+
+[33mcommit e5e54f9c28fe108561632aa342c3d5a8e07212d5[m
+Author: Andre Richardi <a.richardi@gmail.com>
+Date:   Wed Jan 27 10:41:51 2021 -0300
+
+    create actions and reducer
+
+[33mcommit 50c4ee98e056e36944b192a3efd9abcdef5aa4ba[m
+Author: Andre Richardi <a.richardi@gmail.com>
+Date:   Wed Jan 27 10:10:40 2021 -0300
+
+    Initialize project using Create React App

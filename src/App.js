@@ -2,15 +2,14 @@
 import './App.css';
 import { Provider } from 'react-redux'
 import store from './redux/store'
-import HooksCakeContainer from './components/HooksCakeContainer';
-import IceCreamContainer from './components/IceCreamContainer';
+import IceCreamItemContainer from './components/IceCreamItemContainer';
+
 
 function App() {
   return (
     < Provider store={store}>
     <div className="App">
-      <HooksCakeContainer />
-      <IceCreamContainer />
+      <IceCreamItemContainer />
     </div>
     </Provider>
   );
