@@ -6,7 +6,7 @@ const userInitialState = {
     error: ''
 }
 
-const reducer = (state = userInitialState, action) => {
+const usersReducer = (state = userInitialState, action) => {
     switch (action.type){
         case USERS_REQUEST: return{
             ...state,
@@ -25,3 +25,5 @@ const reducer = (state = userInitialState, action) => {
         default: return state
     }
 }
+
+export default usersReducer
